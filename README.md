@@ -37,7 +37,7 @@ Over the course of six lessons, students will learn:
 
 ###Resources
 
-For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi in pairs. Each pair should have access to the standard equipment described below, and a computer with a web broswer connected to the network each. As there will be multipule Raspberry Pis acting as servers some setup is required in configuring them. [See multipule coder devices setup guide](https://github.com/googlecreativelab/coder/wiki/Using-Multiple-Coder-Devices-(Lab-Setup). In addition, it is suggested that you have your own teacher setup connected to a projector screen for demonstration purposes.
+For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi in pairs. Each pair should have access to the standard equipment described below, and a computer with a web broswer connected to the network each. As there will be multipule Raspberry Pis acting as servers some setup is required in configuring them. [See multipule coder devices setup guide](https://github.com/googlecreativelab/coder/wiki/Using-Multiple-Coder-Devices-(Lab-Setup)). In addition, it is suggested that you have your own teacher setup connected to a projector screen for demonstration purposes.
 
 - A Raspberry Pi per pair connected to a local network;
 - An [SD card with Google Coder installed](http://googlecreativelab.github.io/coder/) per RPi and configured to allow multipule coder devices; 
@@ -46,12 +46,12 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 
 ###Lessons
 
-- [Lesson 1 - What is HTML?](/Lesson-1/lesson-plan-1.md)
-- [Lesson 2 - Adding Images](/Lesson-2/lesson-plan-2.md)
-- [Lesson 3 - Unordered Lists](/Lesson-3/lesson-plan-3.md)
-- [Lesson 4 - Ordered Lists](/Lesson-4/lesson-plan-4.md)
-- [Lesson 5 - CSS](/Lesson-5/lesson-plan-5.md)
-- [Lesson 6 - Webserver](/Lesson-6/lesson-plan-6.md)
+- [Lesson 1 - Websites & Webservers](/Lesson-1/lesson-plan-1.md)
+- [Lesson 2 - HTML](/Lesson-2/lesson-plan-2.md)
+- [Lesson 3 - Lists & Descriptions](/Lesson-3/lesson-plan-3.md)
+- [Lesson 4 - Adding Images](/Lesson-4/lesson-plan-4.md)
+- [Lesson 5 - Adding Style with CSS](/Lesson-5/lesson-plan-5.md)
+- [Lesson 6 - Evaluation](/Lesson-6/lesson-plan-6.md)
 
 ###Community
 
