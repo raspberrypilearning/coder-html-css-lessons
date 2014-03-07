@@ -1,6 +1,6 @@
 ## Google Coder - HTML & CSS Scheme of Work
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/watch?v=wH24YwdayFg.jpg)](https://www.youtube.com/watch?v=wH24YwdayFg)
+[![IMAGE ALT TEXT HERE](coder.png)](https://www.youtube.com/watch?v=wH24YwdayFg)
 
 
 ###Introduction
