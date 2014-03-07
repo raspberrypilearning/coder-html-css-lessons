@@ -25,7 +25,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 3. Once connected you will see a screen asking you to setup a password to protect your server. With your partner set a password. *Note: You will need to make sure that you remember your password every lesson, or your work will be lost. Why not use the RPi default password `raspberry`*
 
-###Create your own website:
+### Hello World
 
 Once connected to your Coder webserver you will to create a new Coder App. On the main Coder page you will see a grid of boxes with names on them. These are projects (also called apps), and there are a few that come pre-installed on Coder. Some of them are simple (like Hello Coder) 
 
