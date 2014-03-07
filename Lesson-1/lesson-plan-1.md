@@ -47,7 +47,7 @@ Explain to students the concept of a webserver, how websites are created, stored
 
 2. Split the students into pairs and issue a configured for [multiple use coder SD card] to each pair. It's recommended that you number the cards and make a note of which group has each card, as they will need to use the same card each lesson in this scheme of work. Allow the students to set up and power up their RPi Google Coder webservers using [these Student Instructions](/Lesson-1/student-instructions.md)
 
-3. Once students have connected to their Rpi Coder server it will ask them to set a password. This is not necessary but could be used as a opportunity to discuss the importance of security on webservers and why this might be important on the www.
+3. Once students have connected to their Rpi Coder server it will ask them to set a password. This is not necessary but could be used as a opportunity to discuss the importance of security on webservers and why this might be important on the www
 
 4. Students should opne the **Hello Coder** webpage by clicking on the icon. They should then click on the **edit** button to see the html code that makes up the webpage. Students can change some of the writing to see what happens to the page.
 
