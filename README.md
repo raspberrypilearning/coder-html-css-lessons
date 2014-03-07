@@ -1,6 +1,6 @@
 ## Google Coder - HTML & CSS Scheme of Work
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/watch?v=wH24YwdayFg/0.jpg)](https://www.youtube.com/watch?v=wH24YwdayFg)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/watch?v=wH24YwdayFg.jpg)](https://www.youtube.com/watch?v=wH24YwdayFg)
 
 
 ###Introduction
@@ -37,10 +37,10 @@ Over the course of six lessons, students will learn:
 
 ###Resources
 
-For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi in pairs. Each pair should have access to the standard equipment described below, and a computer with a web broswer connected to the network each. In addition, it is suggested that you have your own teacher setup connected to a projector screen for demonstration purposes.
+For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi in pairs. Each pair should have access to the standard equipment described below, and a computer with a web broswer connected to the network each. As there will be multipule Raspberry Pis acting as servers some setup is required in configuring them. [See multipule coder devices setup guide](https://github.com/googlecreativelab/coder/wiki/Using-Multiple-Coder-Devices-(Lab-Setup). In addition, it is suggested that you have your own teacher setup connected to a projector screen for demonstration purposes.
 
 - A Raspberry Pi per pair connected to a local network;
-- An [SD card with Google Coder installed](http://googlecreativelab.github.io/coder/) per RPi; 
+- An [SD card with Google Coder installed](http://googlecreativelab.github.io/coder/) per RPi and configured to allow multipule coder devices; 
 - A computer per student with a web browser connected to local network.
 
 
