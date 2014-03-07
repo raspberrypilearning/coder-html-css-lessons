@@ -1,4 +1,4 @@
-## Lesson 1 - What are Websites?
+## Lesson 1 - Websites & Webservers
 
 ###Introduction
 
