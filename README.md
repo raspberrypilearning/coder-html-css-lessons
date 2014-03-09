@@ -7,7 +7,7 @@
 
 [Google Coder](http://googlecreativelab.github.io/coder/) is a free, open source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS, and Javascript, right from the web browser.
 
-This scheme of work is specifically targetted towards KS2/KS3 Computing. This has been developed in harmony with the new Computing curriculum in the UK. 
+This scheme of work will introduce students to the infrastructure of website development, in particular the concept of web pages and web servers. It is specifically targetted towards KS2/KS3 Computing. This has been developed in harmony with the new Computing curriculum in the UK. 
 
 ###Students will learn:
 
