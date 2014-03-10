@@ -35,17 +35,15 @@ In this lesson we will be given an opportunity to experience the art of programm
 
 ### Starter
 
-Using an example of a live website such as [RaspberryPi.org](http://www.raspberrypi.org) or [bbc.co.uk](http://bbc.co.uk) in a web browser such as Google Chrome, ask students to identify different elements that make up the page e.g. images, text, animations, etc. Next show the source code of the page using the **view source** option in Chrome. Explain to students that this is HTML and that it is a type of code used to make websites. Draw on previous learning to explain the tags and ask students if they can guess what some of the tags may do.
+Using an example of a live website such as [RaspberryPi.org](http://www.raspberrypi.org) or [bbc.co.uk](http://bbc.co.uk) in a web browser such as Google Chrome, ask students to identify different elements that make up the page e.g. images, text, animations, etc. Next show the source code of the page using the **view page source** option in Chrome. Explain to students that this is HTML and that it is a type of code used to make websites. Draw on previous learning to explain the tags and ask students if they can guess what some of the tags may do.
 
 ### Main Development
 
-1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers. 
+1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure they they can all log in.
 
-2. Split the students into pairs and issue a configured for [multiple use coder SD card] to each pair. It's recommended that you number the cards and make a note of which group has each card, as they will need to use the same card each lesson in this scheme of work. Allow the students to set up and power up their RPi Google Coder webservers using [these Student Instructions](/Lesson-1/student-instructions.md)
+2. Next demonstrate to the students how to create a new page on Google Coder, name it, and give it a colour. See [Student Instructions here]()
 
-3. Once students have connected to their Rpi Coder server it will ask them to set a password. This is not necessary but could be used as a opportunity to discuss the importance of security on webservers and why this might be important on the www
-
-4. Students should opne the **Hello Coder** webpage by clicking on the icon. They should then click on the **edit** button to see the html code that makes up the webpage. Students can change some of the writing to see what happens to the page.
+3. 
 
 ### Plenary
 
