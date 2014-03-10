@@ -35,6 +35,7 @@ In this lesson we will be given an opportunity to experience the art of programm
 
 ### Starter
 
+Using an example of a live website such as [RaspberryPi.org](http://www.raspberrypi.org) or [bbc.co.uk](http://bbc.co.uk) in a web browser such as Google Chrome, ask students to identify different elements that make up the page e.g. images, text, animations, etc. Next show the source code of the page using the **view source** option in Chrome. Explain to students that this is HTML and that it is a type of code used to make websites. Draw on previous learning to explain the tags and ask students if they can guess what some of the tags may do.
 
 ### Main Development
 
