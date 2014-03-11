@@ -106,3 +106,4 @@ Underneath your main heading using the `<h1>` tag type:
 
 HR stands for “Horizontal Rule” and it’s a HTML element designed to divide content on a page.
 
+![alt text](final.png)
