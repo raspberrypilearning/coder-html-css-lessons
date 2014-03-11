@@ -22,7 +22,7 @@ In this lesson we will be given an opportunity to experience the art of programm
 
 - Identify some HTML tags and explain their use
 
-**Some stufents are able to:**
+**Some students are able to:**
 
 - 
 
