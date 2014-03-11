@@ -43,7 +43,7 @@ Using an example of a live website such as [RaspberryPi.org](http://www.raspberr
 
 2. Next demonstrate to the students how to create a new page on Google Coder, name it, and give it a colour. See [Student Instructions here]()
 
-3. 
+3. Explain how to add heading text and a description of their item to review plus what the html tag looks like to do this. 
 
 ### Plenary
 
