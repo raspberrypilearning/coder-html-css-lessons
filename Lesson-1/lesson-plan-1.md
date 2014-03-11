@@ -57,5 +57,5 @@ Pairs should be invited to demonstrate to the class what they did to the Hello C
 
 ### Homework
 
-Students should be asked to think of their favourite evening meal and find out the recipe, ready for the next lesson.
+Students should be asked to think of their favourite Tv Program, Game, Book, or item and write a review of it ready for the next lesson.
 
