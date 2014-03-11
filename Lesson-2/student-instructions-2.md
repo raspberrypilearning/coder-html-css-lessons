@@ -31,7 +31,12 @@ On the main Coder page you will see a grid of boxes with names on them. These ar
 
 1. At the top left of the screen you should see a green box with a plus sign. Click the **plus** to start creating a new app.
 
-2. Give it a name and pick a color. You are going to make a webpage containing a recipe so give it a name to reflect it's contents like "The Perfect Victoria Sponge - by Miss Philbin".
+2. Give it a name and pick a color. You are going to make a webpage containing a review so give it a name to reflect it's contents like "My favourite item - by Miss Philbin".
 
 3. Once you’ve got a name and color, press **Create**. You should go straight into editing your new project.
+
+4. When you create a new webpage you start in the "Code View" of Coder. The building blocks that will make up your website. Click on the icon in the top right hand corner that looks like an eye. This will show you a preview of what your webpage will look like.
+
+
+
 
