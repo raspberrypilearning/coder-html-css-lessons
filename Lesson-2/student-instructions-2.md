@@ -2,7 +2,7 @@
 
 ### Setting up your Raspberry Pi using Google Coder
 
-The Raspberry Pi is a barebones computer. It’s really pretty useless on its own. In order to puse it as a webserver and create websites on it, we need to connect a number of things to it:
+The Raspberry Pi is a barebones computer. It’s really pretty useless on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
 - An SD card. This card contains the Google Coder that can be loaded onto the Raspberry Pi in order for it to do things. You need to slide the card into the slot with the metal pins facing in towards the Raspberry Pi. The label should be visible when it is inserted.
 - An ethernet cable or wifi adapter. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
