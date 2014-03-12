@@ -44,7 +44,7 @@ Using an example of a live website such as [RaspberryPi.org](http://www.raspberr
 
 1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure they they can all log in.
 
-2. Next demonstrate to the students how to create a new page on Google Coder, name it, and give it a colour. See [Student Instructions here]()
+2. Next demonstrate to the students how to create a new page on Google Coder, name it, and give it a colour. See [Student Instructions here](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-2/student-instructions-2.md)
 
 3. Explain how to add heading text and a description of their item to review plus what the html tag looks like to do this. Give students time to try this and preview what it looks like.
 
@@ -52,7 +52,10 @@ Using an example of a live website such as [RaspberryPi.org](http://www.raspberr
 
 ### Plenary
 
-Select students to demonstarte their work so far to the class. Draw out through questioning what tags they used and how they worked. 
+Select students to demonstarte their work so far to the class. Draw out through questioning what tags they used and how they worked. If students have a blog or eportfolio they should write about what they did in the lesson ensuring that they answer the following questions:
+- What is html?
+- What do html tags look like?
+- What html tags did you use in the construction of your review page today?
 
 ### Homework
 
