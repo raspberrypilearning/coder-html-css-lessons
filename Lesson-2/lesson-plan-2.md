@@ -21,11 +21,11 @@ In this lesson we will be given an opportunity to experience the art of programm
 **Most students are able to:**
 
 - Identify some HTML tags and explain their use
-- Display text in multiple ways using html tags such as <br> and <h2>
+- Display text in multiple ways using html tags such as `<br>` and `<h2>`
 
 **Some students are able to:**
 
-- Add horizontal line to break up text on the page visually using <hr />
+- Add horizontal line to break up text on the page visually using `<hr />`
 - Understand that most html code uses an opening tag and a closing tag.
 
 
