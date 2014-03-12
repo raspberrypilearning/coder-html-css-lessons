@@ -21,16 +21,19 @@ In this lesson we will be given an opportunity to experience the art of programm
 **Most students are able to:**
 
 - Identify some HTML tags and explain their use
+- Display text in multiple ways using html tags such as <br> and <h2>
 
 **Some students are able to:**
 
-- 
+- Add horizontal line to break up text on the page visually using <hr />
+- Understand that most html code uses an opening tag and a closing tag.
 
 
 ### Lesson Summary
 
 - An introduction to some HTML tags
 - A demonstration on how to create a new Google Coder webpage on a Raspberry Pi
+- Student setup of coder webservers
 - Creation of a webpage using html tags
 
 ### Starter
@@ -43,12 +46,16 @@ Using an example of a live website such as [RaspberryPi.org](http://www.raspberr
 
 2. Next demonstrate to the students how to create a new page on Google Coder, name it, and give it a colour. See [Student Instructions here]()
 
-3. Explain how to add heading text and a description of their item to review plus what the html tag looks like to do this. 
+3. Explain how to add heading text and a description of their item to review plus what the html tag looks like to do this. Give students time to try this and preview what it looks like.
+
+4. Next introduce students to other ways to display text (see the student instructions) including, breaking lines of text, adding paragraphs of text, using different heading sizes and horizontal lines.
 
 ### Plenary
 
-
+Select students to demonstarte their work so far to the class. Draw out through questioning what tags they used and how they worked. 
 
 ### Homework
+
+Using [creativecommons image search](http://search.creativecommons.org/) students should find or make a note of images they can use on their webpage.
 
 
