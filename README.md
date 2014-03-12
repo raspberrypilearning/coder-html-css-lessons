@@ -47,9 +47,9 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 ###Lessons
 
 - [Lesson 1 - Websites & Webservers](/Lesson-1/lesson-plan-1.md)
-- [Lesson 2 - HTML](/Lesson-2/lesson-plan-2.md)
-- [Lesson 3 - Lists & Descriptions](/Lesson-3/lesson-plan-3.md)
-- [Lesson 4 - Adding Images](/Lesson-4/lesson-plan-4.md)
+- [Lesson 2 - What is HTML?](/Lesson-2/lesson-plan-2.md)
+- [Lesson 3 - Adding Images and Other Media](/Lesson-3/lesson-plan-3.md)
+- [Lesson 4 - ](/Lesson-4/lesson-plan-4.md)
 - [Lesson 5 - Adding Style with CSS](/Lesson-5/lesson-plan-5.md)
 - [Lesson 6 - Evaluation](/Lesson-6/lesson-plan-6.md)
 
