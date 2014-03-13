@@ -23,7 +23,9 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 2. Or to the Coder number given to you by your teacher. e.g. `http://coder01.local/` or `http://coder02.local/` 
 
-3. Once connected you will see a screen asking you to setup a password to protect your server. With your partner set a password. *Note: You will need to make sure that you remember your password every lesson, or your work will be lost. Why not use the RPi default password `raspberry`*
+3. Once connected you may get a security certifcate warning screen, click it is ok to proceed. Then will see a screen asking you to type a password. Use the password that you setup during th first lesson. E.g. raspberry.
+
+4. Load your project page fromthe last lesson by clicking on the project icon.
 
 ### Make a New Coder Webpage
 
