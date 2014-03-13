@@ -110,3 +110,29 @@ Font choice is very important when creating digital content like a webpage. You 
 10. Change the size and styles of the fonts for `<h2>` and `<p>` text too!
 
 	
+### Other Fun Things to do with Fonts
+
+You can use CSS to apply all sorts of fun styles. For example, why not make the text look a little blurry or...
+
+1. In the **CSS panel** type the following code underneath the `.pagecontent` section in curly brackets and above the `h1` section:
+
+	```css
+	.blur {
+		color: transparent;
+		text-shadow: 0 0 5px rgba(0,0,0,0.5);
+	}
+	```
+	
+	![](blurry-text.png)
+
+2. Click on the **HTML panel** to view the html code and underneath the line `<div class="pagecontent">` type the following line:
+
+	```html
+	<div class="blur">
+	```
+
+3. Remember most html tags have an open and a clode tag. Adding a new div class, adds a new opening tag. Therefore you need to add the closing tag '</div>'. Place this closing tag above `<h2>Introduction</h2>` like this:
+
+	![](blurry-text-html.png) 	
+	
+4. Click on the Save button and preview what your heading font looks like now! You can always remove this effect by deleting the `<div class="blur">` and `</div>` tags.	
