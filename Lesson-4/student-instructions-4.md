@@ -58,7 +58,7 @@ CSS looks different to the HTML you have used so far in your project. They use c
 
 4. Change the padding size to something more pleasing to look at like 50.
 
-	```
+	```css
 	.pagecontent {
     	padding-left: 50px;
     	padding-right: 50px;
