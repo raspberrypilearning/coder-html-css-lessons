@@ -35,7 +35,7 @@ Currently, your webpage has some text written using different styles. You can ma
 
 2. Between the two `<hr />` tags, add an `<img src="" />` tag. It’s one of those tags that doesn’t need a close tag. Like `<hr />`. It should look like this: 
 
-	```
+	```html
 	<hr />
 	<img src="" />
 	<hr />
@@ -72,44 +72,21 @@ Images and text are the main focus of many websites. Nowadays video content is b
 
 2. Copy the code by using the keyboard shortcut **CTRL + C** and navigate back to your Coder project page.
 
-3. Paste the code underneath a horizontal line or heading by using the keyboard shortcut **CTRL+V** 
+3. Paste the code underneath a horizontal line or heading by using the keyboard shortcut **CTRL+V** Your code should look like this:
 
-	`<h1>My Raspberry Pi Review by Miss Philbin</h1>`
+	```html
+	<h1>My Raspberry Pi Review<br>by Miss Philbin</h1>
+	<hr />
+    <img src="/static/apps/raspberry_pi/media/raspberry_pi_pcb.png" width="400" />
+    <hr />
+    <h2>Introduction</h2>
+    <br>
+    <iframe width="560" height="315" src="//www.youtube.com/embed/jr6IVLZmp28?list=PL455284BB15D6E8F0" frameborder="0" allowfullscreen></iframe>
+    <p>The Raspberry Pi is a small computer and is my favourite item. This is a video that explains what a Raspberry Pi is and how to set one up for the first time!</p>
+	```
 
-	I can use the `<br>` tag to break it into two like this:
 
-	`<h1>My Raspberry Pi Review<br>by Miss Philbin</h1>`
+![](video.png)
 
-2. Break your heading so that it goes over two lines. Then click on **Save** and see how it looks in the preview window by clicking on the picture of an eye.
 
-3. Next change the paragraph tag beneth the heading that looks like this:
 
-	`<p>Your html goes here.</p>`
-
-	Remove the text between the tags and replace it with your introduction text about your favourite item. For example:
-
-	`<p>The Raspberry Pi is a small compiuter and is my favourite item. </p>`
-	
-4. Now save that and take a look. 
-
-5. Above your introduction paragraph you can text to act as a sort of subheading. This could be text that is important but not as important as the title.
-
-	Add an `<h2>` tag. It’s a headline, like the `<h1>` but won’t be as prominent. The `<h2>` tag should read **Introduction**.
-
-	You code should look something like this:
-
-	![alt text](text.png)
-
-6. Don't forget to save and preview your page to see what it looks like.
-
-### Horizontal Line
-
-It is always nice to underline headings on a page to separate them from the body of text. You can do this with a simple tag!
-
-Underneath your main heading using the `<h1>` tag type: 
-
-`<hr />`
-
-HR stands for “Horizontal Rule” and it’s a HTML element designed to divide content on a page.
-
-![alt text](final.png)
