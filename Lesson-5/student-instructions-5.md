@@ -98,4 +98,33 @@ Text is not the only element of the webpage that you may wish to choose a colour
 
 	![](background-colour.png)
 
+### Background Image
+
+Instead of using one colour for the background, you could use an image instead. To do this you will need to find an image that you want to use, save it somewhere on your computer and then upload it to coder using the Media folder. Just like you did in lesson 3.
+
+1. Click on the **Media** button that looks like a picture of a folder.
+2. Click the `“+”` button. You should get a prompt to upload a file. 
+3. Select an image of your choice from somewhere on your computer where it is saved.
+4. Once the image is uploaded, you should see its name and the date it was uploaded appear. 
+
+	![]()
+
+5. Click on the **CSS panel** and replace `background-color` with `background-image:url("image.jpg")` like this:
+
+	```css
+	body {
+    	background-image:url("");
+	}
+	```		
+
+6. 	To add the location of the image, click between `(" ")`, then with the media folder open click on **paste to code** and the url of the image will be added. 
+
+7. Save your work so far and then see if it has worked by clicking on the preview window. You should end up with code that looks something like this:
+
+	```css
+	body {
+    	background-image:url("/static/apps/raspberry_pi/media/Raspi_Colour_R.png");
+	}
+	```
 	
+	![](background-image.png)	

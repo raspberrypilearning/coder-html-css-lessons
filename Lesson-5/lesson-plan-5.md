@@ -1,8 +1,8 @@
-## Lesson 3 - Adding Images and Other Media
+## Lesson 5 - Colour 
 
 ###Introduction
 
-Modern webpages include more than just text. In this lesson, students will learn html code to add images and embed videos in Google Coder. 
+
 
 ### Learning Objectives
 
@@ -11,7 +11,6 @@ Modern webpages include more than just text. In this lesson, students will learn
 ### Learning Outcomes
 
 **All students are able to**
-
 
 
 **Most students are able to:**
