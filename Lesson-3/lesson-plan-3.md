@@ -12,6 +12,7 @@ Modern webpages include more than just text. In this lesson, students will learn
 
 **All students are able to**
 
+- search for appropriate images online and save them.
 
 
 **Most students are able to:**
