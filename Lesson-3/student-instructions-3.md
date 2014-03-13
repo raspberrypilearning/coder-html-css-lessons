@@ -1,4 +1,4 @@
-## Student Instructions
+## Student Instructions - Images & Videos
 
 ### Setting up your Raspberry Pi using Google Coder
 
