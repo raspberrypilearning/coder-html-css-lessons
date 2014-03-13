@@ -43,7 +43,7 @@ Currently, your webpage has some text written using different styles. You can ma
 	
 	Notice the `src=""` part. That's an attribute of the img tag that will let you specify the image that you want to use.
 
-3. Navigate to the top right hand side of the screen. Click on the **Media** button? (The one that looks like a folder).
+3. Navigate to the top right hand side of the screen. Click on the **Media** button (The one that looks like a folder).
 
 4. Click the `“+”` button. You should get a prompt to upload a file. Select an image of your choice from somewhere on your computer where it is saved.
 
