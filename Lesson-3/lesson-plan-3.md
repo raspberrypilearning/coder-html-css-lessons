@@ -30,11 +30,14 @@ Modern webpages include more than just text. In this lesson, students will learn
 
 ### Starter
 
+Using the results of the homework task ask students to explain what images they found on [Creative Commons Search](http://search.creativecommons.org) for their item review webpage. 
+
+Discuss the idea of who owns a image on the internet, before explaining the idea of 'creative commons'. Ask students to relfect on the images they found and will use on their webpage in todays lesson. 
 
 
 ### Main Development
 
-
+1. Ask students to set up their Raspberry Pi Goodle Coder webservers and log in. They can use the [Student Worksheet]() as a guide.
 
 ### Plenary
 
