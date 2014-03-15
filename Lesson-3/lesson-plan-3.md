@@ -32,7 +32,7 @@ Modern webpages include more than just text. In this lesson, students will learn
 
 Using the results of the homework task ask students to explain what images they found on [Creative Commons Search](http://search.creativecommons.org) for their item review webpage. 
 
-Discuss the idea of who owns a image on the internet, before explaining the idea of 'creative commons'. Ask students to relfect on the images they found and will use on their webpage in todays lesson. 
+Discuss the idea of who owns a image on the internet, before explaining the idea of 'creative commons'. Ask students to relfect on the images they found and will use on their webpage in todays lesson. Show students the [Sharing Creative Works](http://wiki.creativecommons.org/Sharing_Creative_Works) presentation to explain how copyright could affect their work.
 
 
 ### Main Development
