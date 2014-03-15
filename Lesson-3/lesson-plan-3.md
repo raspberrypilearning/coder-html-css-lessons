@@ -17,16 +17,19 @@ In this lesson, students will be introduced to the concepts of  copyright and cr
 
 **All students are able to**
 
-- search for appropriate images online and save them.
-
+- search for appropriate images online and save them
+- add an image to a webpage using html
 
 **Most students are able to:**
 
-
+- understand that not all images online are free to use
+- add multiple images to a webpage with html and be able to resize them
 
 
 **Some students are able to:**
 
+- explain the difference between copyright and creative commons
+- embed media from other sources using `<iframe>`
 
 
 
