@@ -22,11 +22,11 @@ CSS, also known as *Cascading Style Sheets*, is used to style and control the la
 **Most students are able to:**
 
 - change the fonts for all the types of text they have used on their webpage such as `<h1> <h2> <p>`
-- add a size and weight to their fonts
+- add a size and weight to fonts with CSS
 
 **Some students are able to:**
 
-- apply advanced CSS to their fonts by making them blurry
+- apply advanced CSS to make the fonts look more interesting
 
 
 
@@ -48,8 +48,15 @@ Create student groups of 2 or 3 and give each group a set of [HTML cards](). Stu
 
 1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure they they can all log in. Students can use the [Student Instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-4/student-instructions-4.md) as a guide to remind them of the steps.
 
-2. 
+2. Demonstrate how to access the CSS panel on a webpage project in Google Coder. Ask students to change the padding to show how CSS affects the webpage they have already created.
 
+3. Next demonstrate how to change the font family, weight and size for `<h1>`. 
+	
+	*Note: It may be helpful to have a list of installed fonts avaliable for students to see displayed on the board.*
+
+4. Allow students time to change the fonts for all their text types following the [student instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-4/student-instructions-4.md) 
+
+5. 
 
 ### Plenary
 
