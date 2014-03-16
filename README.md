@@ -31,6 +31,7 @@ Over the course of six lessons, students will learn:
 
 - Understand the hardware and software components that make up computer systems, and how they communicate with one another and with other systems.
 - Create, reuse, revise and repurpose digital artefacts for a given audience, with attention to trustworthiness, design and usability.
+- Understand a range of ways to use technology safely, respectfully, responsibly and securely, including protecting their online identity and privacy; recognise inappropriate content, contact and conduct, and know how to report concerns
 
 [National Curriculum Computing Programmes of Study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
 
