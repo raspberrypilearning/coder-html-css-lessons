@@ -57,6 +57,8 @@ Create student groups of 2 or 3 and give each group a set of [HTML cards](https:
 
 5. More advanced use of CSS to make the text look more interesting could be an exstension task, for example making some of the heading text look blurry.
 
+6. Ask students to save their work, and turn off their Raspberry Pis.
+
 ### Plenary
 
 If students have a blog or eportfolio they should write about what they did in the lesson ensuring that they answer the following questions:
