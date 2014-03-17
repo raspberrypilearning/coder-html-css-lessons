@@ -29,7 +29,6 @@ CSS, also known as *Cascading Style Sheets*, is used to style and control the la
 - apply advanced CSS to make the fonts look more interesting
 
 
-
 ### Lesson Summary
 
 - HTML card sort activity
@@ -41,7 +40,7 @@ CSS, also known as *Cascading Style Sheets*, is used to style and control the la
 
 ### Starter
 
-Create student groups of 2 or 3 and give each group a set of [HTML cards](html-cards). Students are to match the HTML tag with the correct answer card. After a few minutes select each group to feed back one card to the rest of the class. 
+Create student groups of 2 or 3 and give each group a set of [HTML cards](https://github.com/raspberrypilearning/coder-html-css-lessons/raw/master/Lesson-4/html-cards.pdf). Students are to match the HTML tag with the correct answer card. After a few minutes select each group to feed back one card to the rest of the class. 
 
 
 ### Main Development
@@ -56,14 +55,15 @@ Create student groups of 2 or 3 and give each group a set of [HTML cards](html-c
 
 4. Allow students time to change the fonts for all their text types following the [student instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-4/student-instructions-4.md) 
 
-5. 
+5. More advanced use of CSS to make the text look more interesting could be an exstension task, for example making some of the heading text look blurry.
 
 ### Plenary
 
+If students have a blog or eportfolio they should write about what they did in the lesson ensuring that they answer the following questions:
 
-
-### Homework
-
+- What did you learn in this lesson?
+- Did you encounter any difficulties, and if so what were they?
+- Set two targets for improvement of your webpage for next lesson, e.g Adding colour to headings  
 
 
 
