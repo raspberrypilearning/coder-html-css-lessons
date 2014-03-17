@@ -70,6 +70,14 @@ If students have a blog or eportfolio they should write about what they did in t
 
 ### Homework
 
-Students are asked to complete the [homework worksheet]() on copyright and creative commons.
+Students are asked to write a short piece on copyright and creative commons answering the following questions:
+
+1. Explain how copyright preotects an original creative piece like an image.
+2. Explain why using people's images without their permission or knowledge is not okay.
+3. What is creative commons?
+4. Who does creative commons benefit and how?
+5. Why is it important to check the licence of a image before you use it in your work?
+
+
 
 
