@@ -41,7 +41,7 @@ CSS, also known as *Cascading Style Sheets*, is used to style and control the la
 
 ### Starter
 
-Create student groups of 2 or 3 and give each group a set of [HTML cards](). Students are to match the HTML tag with the correct answer card. After a few minutes select each group to feed back one card to the rest of the class. 
+Create student groups of 2 or 3 and give each group a set of [HTML cards](html-cards). Students are to match the HTML tag with the correct answer card. After a few minutes select each group to feed back one card to the rest of the class. 
 
 
 ### Main Development
