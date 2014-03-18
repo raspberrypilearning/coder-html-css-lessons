@@ -2,7 +2,7 @@
 
 ###Introduction
 
-Applying colour to a publication like a webpage is a major part of it's design. So far students  have been using the default black text on a white background. In this lesson they will learn how to use CSS to apply colours to different types of text and the background. 
+Applying colour to a publication like a webpage is a major part of it's design. So far students have been using the default black text on a white background. In this lesson they will learn how to use CSS to apply colours to different types of text and the background. 
 
 ### Learning Objectives
 
