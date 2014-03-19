@@ -15,18 +15,18 @@ In this lesson students will be introduced to the concepts of copyright and Crea
 
 ## Learning Outcomes
 
-**All students are able to:**
+###All students are able to:
 
 - search for appropriate images online and save them
 - add an image to a webpage using HTML
 
-**Most students are able to:**
+###Most students are able to:
 
 - understand that not all images online are free to use
 - add multiple images to a webpage with HTML and be able to resize them
 
 
-**Some students are able to:**
+###Some students are able to:
 
 - explain the difference between copyright and Creative Commons
 - embed media from other sources using `<iframe>`
