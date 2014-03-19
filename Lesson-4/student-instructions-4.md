@@ -1,6 +1,6 @@
-## Student Instructions - Adding Some Style
+# Student Instructions - Adding Some Style
 
-### Setting up your Raspberry Pi using Google Coder
+## Setting up your Raspberry Pi using Google Coder
 
 The Raspberry Pi is a barebones computer. It’s really pretty useless on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
@@ -10,7 +10,7 @@ The Raspberry Pi is a barebones computer. It’s really pretty useless on its ow
 
 *Note: A monitor, keyboard & mouse are not necessary, as you will connect to the RPi from a computer internet browser on the same network.*
 
-### Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder Server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer and laptop to connect to it. You will see that after you plugged in the power cable to the RPi some lights came on, this indicates that your RPi Coder server is booting up. 
 
@@ -27,7 +27,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 4. Load your project page from the last lesson by clicking on the project icon.
 
-### Adding Style using CSS
+## Adding Style using CSS
 
 So far you have been using html to create your webpage. This has enabled you to add content like text and images to it. By now, you'll be wanting to make it look much cooler with colour and different fonts.
 
@@ -65,7 +65,7 @@ CSS looks different to the HTML you have used so far in your project. They use c
 	}
 	```
 
-### Get Funky with Fonts
+## Get Funky with Fonts
 
 Font choice is very important when creating digital content like a webpage. You need to consider your audience. Easy to read fonts are better to use if you have text you would like everyone tobe able to read. Crazy artisit fonts are useful to make headings and bits of text stand out. Let's begin by making `<h1>` headings feel like a real headline.
 
@@ -110,7 +110,7 @@ Font choice is very important when creating digital content like a webpage. You 
 10. Change the size and styles of the fonts for `<h2>` and `<p>` text too!
 
 	
-### Other Fun Things to do with Fonts
+## Other Fun Things to do with Fonts
 
 You can use CSS to apply all sorts of fun styles. For example, why not make the text look a little blurry or...
 
