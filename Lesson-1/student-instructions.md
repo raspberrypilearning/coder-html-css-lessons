@@ -14,7 +14,7 @@ The Raspberry Pi is a bare bones computer. It’s not much use on its own. In or
 
 Now you have connected your Raspberry Pi to the local network you can use a computer or laptop to connect to it. You will see that after you plugged in the power cable some lights came on; this indicates that your Raspberry Pi Coder server is booting up. 
 
-1. Give it a few minutes to boot, and then in the web broswer on your computer type:
+1. Give it a few minutes to boot, and then in the web browser on your computer type:
 
   ```
   http://coder.local/
