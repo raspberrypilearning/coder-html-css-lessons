@@ -14,7 +14,7 @@ Hopefully you’ve already downloaded and installed Coder for Raspberry Pi from 
 
 ## Learning Outcomes
 
-**All students are able to**
+**All students are able to:**
 
 - Know how to plug the components of a Raspberry Pi together
 - Access their Coder webserver, and the pages preinstalled on it, with a web browser
@@ -45,7 +45,7 @@ Explain to students the concept of a webserver and how websites are created, sto
 
 1. Demonstrate to the class how to connect all the Raspberry Pi components together in the correct order and how to boot it. While they are connecting the components, ask the class to name and describe each one. An alternative demonstration would be to leave out the memory card and attempt to boot the Pi, which will fail. You can then describe the memory card as something that contains instructions to tell the Raspberry Pi how to start.
 
-2. Split the students into pairs and issue an an SD card configured for multiple use to each pair. It's recommended that you number the cards and make a note of which group has each card, as they will need to use the same card each lesson in this scheme of work. Allow the students to set up and power up their Raspberry Pi Google Coder webservers using [these student instructions](/Lesson-1/student-instructions.md)
+2. Split the students into pairs and issue an an SD card configured for multiple use to each pair. It's recommended that you number the cards and make a note of which group has each card, as they will need to use the same card each lesson in this scheme of work. Allow the students to set up and power up their Raspberry Pi Google Coder webservers using [these student instructions](/Lesson-1/student-instructions.md).
 
 3. Once students have connected to their Raspberry Pi Coder server, it will ask them to set a password. This is not necessary, but it could be used as a opportunity to discuss the importance of security on webservers, and why this might be important on the World Wide Web.
 
