@@ -12,18 +12,18 @@ In this lesson we will be given an opportunity to program a new webpage using HT
 
 ## Learning Outcomes
 
-**All students are able to:**
+###All students are able to:
 
 - Know that websites are made up of HTML tags
 - Create a new webpage on a Google Coder webserver
 - Display some text in headings and main body text
 
-**Most students are able to:**
+###Most students are able to:
 
 - Identify some HTML tags and explain their use
 - Display text in multiple ways using HTML tags such as `<br>` and `<h2>`
 
-**Some students are able to:**
+###Some students are able to:
 
 - Add horizontal lines to visually break up text on the page using `<hr />`
 - Understand that most HTML code uses an opening tag and a closing tag
