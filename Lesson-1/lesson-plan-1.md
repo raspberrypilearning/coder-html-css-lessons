@@ -1,18 +1,18 @@
-## Lesson 1 - Websites & Webservers
+#Lesson 1 - Websites & Webservers
 
-###Introduction
+##Introduction
 
 Google Coder allows creating websites simple, fun, and sneakily educational things that can all be made with Coder and Rasberry Pi. It’s a free piece of software that turns a Raspberry Pi into a simple, tiny, personal web server and web-based development environment--just what you need for crafting HTML, CSS, and Javascript while you’re learning to code.
 
 Hopefully, you’ve already downloaded and installed Coder for Raspberry Pi from the offical Google Coder website. If you haven’t (or aren’t sure what Coder is) you can read about it here: http://goo.gl/coder. 
 
-### Learning Objectives
+## Learning Objectives
 
 - Know how websites are accessed on the World Wide Web
 - Understand the basic functions of a website server
 - Be able to setup and use a Raspberry Pi as a webserver with Google Coder
 
-### Learning Outcomes
+## Learning Outcomes
 
 **All students are able to**
 
@@ -29,19 +29,19 @@ Hopefully, you’ve already downloaded and installed Coder for Raspberry Pi from
 
 - Explain the importance of setting a password on a webserver
 
-### Lesson Summary
+## Lesson Summary
 
 - An introduction to websites and webservers
 - A demonstration of how a Raspberry Pi can be a webserver to host websites using Google Coder
 - Setting up and connecting a Raspberry Pi with a password
 - Starting and editing a Coder app
 
-### Starter
+## Starter
 Have a demonstration Raspberry Pi already connected and Google Coder software running. Hold up an RPi board and ask the students what they think it is. Explain that it’s actually a computer and that in the coming lessons we’re going to do something special with it. Instead of running apps and games other people have created for us, we’re going to learn to create and host websites on it.
 
 Explain to students the concept of a webserver, how websites are created, stored and accessed on the world wide web.
 
-### Main Development
+## Main Development
 
 1. Demonstrate to the class how to connect all the Raspberry Pi components together in the correct order and how to boot it. Whilst connecting as the class to name and describe the components. An alternative to this demonstration is to leave out the memory card and try and boot it to no avail. It should then be possible to describe the memory card as something that contains instructions to tell the RPi how to start.
 
@@ -51,11 +51,11 @@ Explain to students the concept of a webserver, how websites are created, stored
 
 4. Students should opne the **Hello Coder** webpage by clicking on the icon. They should then click on the **edit** button to see the html code that makes up the webpage. Students can change some of the writing to see what happens to the page.
 
-### Plenary
+## Plenary
 
 Pairs should be invited to demonstrate to the class what they did to the Hello Coder webpage. Following this, a discussion should be held about how the webserver works.
 
-### Homework
+## Homework
 
 Students should be asked to think of their favourite Tv Program, Game, Book, or item and write a review of it ready for the next lesson.
 
