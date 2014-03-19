@@ -1,16 +1,16 @@
-## Lesson 2 - What is HTML?
+# Lesson 2 - What is HTML?
 
-###Introduction
+##Introduction
 
 In this lesson we will be given an opportunity to experience the art of programming a new webpage using HTML - from creating a webpage on Google Coder to careful syntax placement to the joy of creating a simple webpage. In particular we will learn how to use the html tags for headings, line breaks and paragraphs.
 
-### Learning Objectives
+## Learning Objectives
 
 - Know that websites are made up of a type of computer code called "html"
 - Identify some HTML tags and what they are used for
 - Be able to use HTML tags to create a basic webpage for a recipe
 
-### Learning Outcomes
+## Learning Outcomes
 
 **All students are able to**
 
@@ -29,18 +29,18 @@ In this lesson we will be given an opportunity to experience the art of programm
 - Understand that most html code uses an opening tag and a closing tag.
 
 
-### Lesson Summary
+## Lesson Summary
 
 - An introduction to some HTML tags
 - A demonstration on how to create a new Google Coder webpage on a Raspberry Pi
 - Student setup of coder webservers
 - Creation of a webpage using html tags
 
-### Starter
+## Starter
 
 Using an example of a live website such as [RaspberryPi.org](http://www.raspberrypi.org) or [bbc.co.uk](http://bbc.co.uk) in a web browser such as Google Chrome, ask students to identify different elements that make up the page e.g. images, text, animations, etc. Next show the source code of the page using the **view page source** option in Chrome. Explain to students that this is HTML and that it is a type of code used to make websites. Draw on previous learning to explain the tags and ask students if they can guess what some of the tags may do.
 
-### Main Development
+## Main Development
 
 1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure they they can all log in.
 
@@ -50,14 +50,14 @@ Using an example of a live website such as [RaspberryPi.org](http://www.raspberr
 
 4. Next introduce students to other ways to display text (see the student instructions) including, breaking lines of text, adding paragraphs of text, using different heading sizes and horizontal lines.
 
-### Plenary
+## Plenary
 
 Select students to demonstarte their work so far to the class. Draw out through questioning what tags they used and how they worked. If students have a blog or eportfolio they should write about what they did in the lesson ensuring that they answer the following questions:
 - What is html?
 - What do html tags look like?
 - What html tags did you use in the construction of your review page today?
 
-### Homework
+## Homework
 
 Using [creativecommons image search](http://search.creativecommons.org/) students should find or make a note of images they can use on their webpage.
 
