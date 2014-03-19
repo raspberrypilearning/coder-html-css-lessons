@@ -15,18 +15,18 @@ CSS, also known as Cascading Style Sheets, is used to style and control the layo
 
 ###All students are able to:
 
-- know what CSS is and how it affects HTML
-- access the CSS panel on their webpages with Google Coder
-- change the font used for `<h1>`
+- Know what CSS is and how it affects HTML
+- Access the CSS panel on their webpages with Google Coder
+- Change the font used for `<h1>`
 
 ###Most students are able to:
 
-- change the fonts for all the types of text they have used on their webpage such as `<h1> <h2> <p>`
-- add a size and weight to fonts with CSS
+- Change the fonts for all the types of text they have used on their webpage such as `<h1> <h2> <p>`
+- Add a size and weight to fonts with CSS
 
 ###Some students are able to:
 
-- apply advanced CSS to make the fonts look more interesting
+- Apply advanced CSS to make the fonts look more interesting
 
 
 ## Lesson Summary
