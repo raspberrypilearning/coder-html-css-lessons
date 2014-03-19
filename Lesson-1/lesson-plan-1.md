@@ -14,18 +14,18 @@ Hopefully you’ve already downloaded and installed Coder for Raspberry Pi from 
 
 ## Learning Outcomes
 
-**All students are able to:**
+###All students are able to:
 
 - Know how to plug the components of a Raspberry Pi together
 - Access their Coder webserver, and the pages preinstalled on it, with a web browser
 - Explain how websites are accessed on the World Wide Web
 
-**Most students are able to:**
+###Most students are able to:
 
 - Edit some basic HTML code and explain what it does
 - Name the functions of a webserver
 
-**Some students are able to:**
+###Some students are able to:
 
 - Explain the importance of setting a password on a webserver
 
