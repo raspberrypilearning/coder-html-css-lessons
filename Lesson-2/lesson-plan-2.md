@@ -12,7 +12,7 @@ In this lesson we will be given an opportunity to program a new webpage using HT
 
 ## Learning Outcomes
 
-**All students are able to**
+**All students are able to:**
 
 - Know that websites are made up of HTML tags
 - Create a new webpage on a Google Coder webserver
@@ -44,7 +44,7 @@ Using an example of a live website such as [RaspberryPi.org](http://www.raspberr
 
 1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure they they can all log in.
 
-2. Next, demonstrate to the students how to create a new page on Google Coder; name it and give it a colour. See [student instructions here](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-2/student-instructions-2.md)
+2. Next, demonstrate to the students how to create a new page on Google Coder; name it and give it a colour. See [student instructions here](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-2/student-instructions-2.md).
 
 3. Explain how to add heading text and a description of their item to review, and show them the HTML tag to do this. Give students time to try this and preview what it looks like.
 
