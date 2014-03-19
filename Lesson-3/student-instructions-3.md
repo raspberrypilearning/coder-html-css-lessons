@@ -1,6 +1,6 @@
-## Student Instructions - Images & Videos
+# Student Instructions - Images & Videos
 
-### Setting up your Raspberry Pi using Google Coder
+## Setting up your Raspberry Pi using Google Coder
 
 The Raspberry Pi is a barebones computer. It’s really pretty useless on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
@@ -10,7 +10,7 @@ The Raspberry Pi is a barebones computer. It’s really pretty useless on its ow
 
 *Note: A monitor, keyboard & mouse are not necessary, as you will connect to the RPi from a computer internet browser on the same network.*
 
-### Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder Server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer and laptop to connect to it. You will see that after you plugged in the power cable to the RPi some lights came on, this indicates that your RPi Coder server is booting up. 
 
@@ -27,7 +27,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 4. Load your project page fromthe last lesson by clicking on the project icon.
 
-### Adding an Image
+## Adding an Image
 
 Currently, your webpage has some text written using different styles. You can make it more interesting by adding some pictures of the item you are reviewing.
 
@@ -64,7 +64,7 @@ Currently, your webpage has some text written using different styles. You can ma
 	Try adding height and width attributes to your `<img />` tag. See what happens when you only use either the height or width attribute, but not the other. Did the image get squished or did it stretch evenly? Play around with different measurements until you like the way it looks on the page.
 
 
-### Embedding Videos
+## Embedding Videos
 
 Images and text are the main focus of many websites. Nowadays video content is becoming more important. If you have access to a video streaming site like YouTube or Vimeo then why not embed a video on your webpage too!
 
