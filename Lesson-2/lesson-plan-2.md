@@ -42,7 +42,7 @@ Using an example of a live website such as [RaspberryPi.org](http://www.raspberr
 
 ## Main Development
 
-1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure they they can all log in.
+1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in.
 
 2. Next, demonstrate to the students how to create a new page on Google Coder; name it and give it a colour. See [student instructions here](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-2/student-instructions-2.md).
 
