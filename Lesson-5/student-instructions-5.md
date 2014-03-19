@@ -1,6 +1,6 @@
-## Student Instructions - Colour
+# Student Instructions - Colour
 
-### Setting up your Raspberry Pi using Google Coder
+## Setting up your Raspberry Pi using Google Coder
 
 The Raspberry Pi is a barebones computer. It’s really pretty useless on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
@@ -10,7 +10,7 @@ The Raspberry Pi is a barebones computer. It’s really pretty useless on its ow
 
 *Note: A monitor, keyboard & mouse are not necessary, as you will connect to the RPi from a computer internet browser on the same network.*
 
-### Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder Server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer and laptop to connect to it. You will see that after you plugged in the power cable to the RPi some lights came on, this indicates that your RPi Coder server is booting up. 
 
@@ -27,7 +27,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 4. Load your project page from the last lesson by clicking on the project icon.
 
-### A Splash of Colour
+## A Splash of Colour
 
 Last lesson you started to add some style to your webpage using CSS, concentrating on styles of fonts and changing their attributes like size and weight. This lesson will build on the CSS you have already learned to change the colours of different elements of your webpage.
 
@@ -36,7 +36,7 @@ Last lesson you started to add some style to your webpage using CSS, concentrati
 
 ![](colour.jpg)
 
-### Adding Colours in CSS
+## Adding Colours in CSS
 
 All the text used on your webpage is a default black colour. You can give each type of text a colour in the **CSS panel**. 
 
@@ -79,7 +79,7 @@ All the text used on your webpage is a default black colour. You can give each t
 
 5. Change the colours of all of your text styles using hex codes from the colour scheme designer webpage you used at the start of the lesson. Hover your mouse over a colour you like and it will give you the hex value for it.
 
-### Changing the Background Colour
+## Changing the Background Colour
 
 Text is not the only element of the webpage that you may wish to choose a colour for. Currently the background is a default white colour. Let's change that by adding a style.
 
@@ -98,7 +98,7 @@ Text is not the only element of the webpage that you may wish to choose a colour
 
 	![](background-colour.png)
 
-### Background Image
+## Background Image
 
 Instead of using one colour for the background, you could use an image instead. To do this you will need to find an image that you want to use, save it somewhere on your computer and then upload it to coder using the Media folder. Just like you did in lesson 3.
 
