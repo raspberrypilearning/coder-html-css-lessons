@@ -1,6 +1,6 @@
-## Student Instructions
+# Student Instructions
 
-### Setting up your Raspberry Pi using Google Coder
+## Setting up your Raspberry Pi using Google Coder
 
 The Raspberry Pi is a barebones computer. It’s really pretty useless on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
@@ -10,7 +10,7 @@ The Raspberry Pi is a barebones computer. It’s really pretty useless on its ow
 
 *Note: A monitor, keyboard & mouse are not necessary, as you will connect to the RPi from a computer internet browser on the same network.*
 
-### Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder Server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer and laptop to connect to it. You will see that after you plugged in the power cable to the RPi some lights came on, this indicates that your RPi Coder server is booting up. 
 
@@ -27,7 +27,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 4. Load your project page fromthe last lesson by clicking on the project icon.
 
-### Make a New Coder Webpage
+## Make a New Coder Webpage
 
 On the main Coder page you will see a grid of boxes with names on them. These are projects (also called apps), some are webapges, and some are game. There are a few that come pre-installed on Coder. Last lesson you looked at the **Hello Coder** project.
 
@@ -35,21 +35,21 @@ On the main Coder page you will see a grid of boxes with names on them. These ar
 
 2. Give it a name and pick a color. You are going to make a webpage containing a review so give it a name to reflect it's contents like "My favourite item".
 
-	![alt text](new-project.png)
+	![](new-project.png)
 
 3. Once you’ve got a name and color, press **Create**. You should go straight into editing your new project.
 
 4. When you create a new webpage you start in the "Code View" of Coder. The building blocks that will make up your website. Click on the icon in the top right hand corner that looks like an eye. This will show you a preview of what your webpage will look like.
 
-	![alt text](new-page.png)
+	![](new-page.png)
 	
-### Project Settings
+## Project Settings
 
 You can change the colour that you have used for your new project and even add your name so that you know it is your work. To do this click on the icon of a cog that represents **settings** next to the **preview** eye icon. Then add your name, and should you wish a new colour for your project icon.
 
-![alt text](project-settings.png)
+![](project-settings.png)
 
-### Headings & Titles
+## Headings & Titles
 
 All Coder projects start with a little bit of code already in them. For example, lines that begin with bits of code that have pointed brackets like `<word>` are called tags.
 
@@ -64,7 +64,7 @@ Tags are the bits of HTML that define the structure and content of a site. They 
 3. Save your changes by clicking on the **Save** button at the bottom of the screen and take a look at the preview window. See how the larger heading text has changed? That is because you changed the text inside the tag. 
 
 
-### Other ways to display text
+## Other ways to display text
 
 Titles are important, but you will want to have different styles of text on your review webpage. In this section we will look at two other ways to display text.
 
@@ -94,11 +94,11 @@ Titles are important, but you will want to have different styles of text on your
 
 	You code should look something like this:
 
-	![alt text](text.png)
+	![](text.png)
 
 6. Don't forget to save and preview your page to see what it looks like.
 
-### Horizontal Line
+## Horizontal Line
 
 It is always nice to underline headings on a page to separate them from the body of text. You can do this with a simple tag!
 
@@ -108,4 +108,4 @@ Underneath your main heading using the `<h1>` tag type:
 
 HR stands for “Horizontal Rule” and it’s a HTML element designed to divide content on a page.
 
-![alt text](final.png)
+![](final.png)
