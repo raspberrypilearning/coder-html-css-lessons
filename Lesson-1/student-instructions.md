@@ -1,6 +1,6 @@
-## Student Instructions
+# Student Instructions
 
-### Setting up your Raspberry Pi using Google Coder
+## Setting up your Raspberry Pi using Google Coder
 
 The Raspberry Pi is a barebones computer. It’s really pretty useless on its own. In order to puse it as a webserver and create websites on it, we need to connect a number of things to it:
 
@@ -10,7 +10,7 @@ The Raspberry Pi is a barebones computer. It’s really pretty useless on its ow
 
 *Note: A monitor, keyboard & mouse are not necessary, as you will connect to the RPi from a computer internet browser on the same network.*
 
-### Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder Server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer and laptop to connect to it. You will see that after you plugged in the power cable to the RPi some lights came on, this indicates that your RPi Coder server is booting up. 
 
@@ -25,7 +25,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 3. Once connected you will see a screen asking you to setup a password to protect your server. With your partner set a password. *Note: You will need to make sure that you remember your password every lesson, or your work will be lost. Why not use the RPi default password `raspberry`*
 
-### Hello Coder
+## Hello Coder
 
 Once connected to your Coder webserver you will to create a new Coder App. On the main Coder page you will see a grid of boxes with names on them. These are projects (also called apps), and there are a few that come pre-installed on Coder. Some of them are simple (like Hello Coder) 
 
