@@ -2,8 +2,7 @@
 
 [![](coder.png)](https://www.youtube.com/watch?v=wH24YwdayFg)
 
-
-##Introduction
+## Introduction
 
 [Google Coder](http://googlecreativelab.github.io/coder/) is a free, open source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS and Javascript, right from the web browser.
 
@@ -18,9 +17,8 @@ Over the course of six lessons, students will learn:
 	- Different ways to display text with HTML
 	- Adding images and videos
 	- Adding CSS style
-	
 
-##Computing Programme of Study Met:
+## Computing Programme of Study Met:
 
 **KS2:**
 
@@ -35,7 +33,7 @@ Over the course of six lessons, students will learn:
 
 [National Curriculum Computing Programmes of Study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
 
-##Resources
+## Resources
 
 For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi in pairs. Each pair should have access to the standard equipment described below, and each should have a computer with a web browser connected to the network. As there will be multiple Raspberry Pis acting as servers some setup is required in configuring them. [See multiple coder devices setup guide](https://github.com/googlecreativelab/coder/wiki/Using-Multiple-Coder-Devices-(Lab-Setup)). In addition, it is suggested that you have your own teacher setup connected to a projector screen for demonstration purposes. The checklist is below:
 
@@ -43,8 +41,7 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 - An [SD card with Google Coder installed](http://googlecreativelab.github.io/coder/) per Raspberry Pi, configured to allow multiple coder devices
 - A computer per student with a web browser connected to the local network
 
-
-##Lessons
+## Lessons
 
 - [Lesson 1 - Websites & Webservers](/Lesson-1/lesson-plan-1.md)
 - [Lesson 2 - What is HTML?](/Lesson-2/lesson-plan-2.md)
@@ -53,6 +50,16 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 - [Lesson 5 - Colour with CSS](/Lesson-5/lesson-plan-5.md)
 - [Lesson 6 - Evaluation](/Lesson-6/lesson-plan-6.md)
 
-##Community
+## Community
 
 Coder is open source, so everyone can help make it better. You can fix bugs, build new features and help make Coder the simplest way for new coders to learn how to create content for the web. To find out more visit the [Google Coder GitHub Page](https://github.com/googlecreativelab/coder/).
+
+## Licence
+
+Unless otherwise specified, everything in this repository is covered by the following licence:
+
+![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+***Coder HTML & CSS Lessons*** by the [Raspberry Pi Foundation](http://raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+Based on a work at https://github.com/raspberrypilearning/coder-html-css-lessons
