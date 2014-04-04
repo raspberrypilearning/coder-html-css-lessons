@@ -41,13 +41,13 @@ Applying colour to a webpage is a major part of its design. So far, students hav
 Direct students to the [Colour Scheme Designer Picker]() Website and give a quick demonstration on how to use it. Explain to students that they will need to select some colours for their webpage. When students are happy with their selections, ask them to note the hex values for each colour they want to use on their webpage. 
 
 ## Main Development
-1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in. Students can use the [student instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-5/student-instructions-5.md) as a guide to remind them of the steps.
+1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in. Students can use the [student instructions](student-instructions-5.md) as a guide to remind them of the steps.
 
 2. Demonstrate how to access the CSS panel on a webpage project in Google Coder. Select students to recall and explain the steps they took in the last lesson to add fonts to the different text styles.
 
 3. Demonstrate how to add colour to `<h1>` using the name of a colour like `color: magenta;`. *Note: the American spelling of colour is important!* Allow students to change the colour of `<h1>` on their webpages using the names of colours.
 
-4. Show students that instead of using the names of colours, which can be limited, they can use Hex values instead, like the ones they selected at the start of the lesson. Explain that hex values are codes that help a browser show colour. Following the [student instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-5/student-instructions-5.md), allow the class to try adding different colours to their text.
+4. Show students that instead of using the names of colours, which can be limited, they can use Hex values instead, like the ones they selected at the start of the lesson. Explain that hex values are codes that help a browser show colour. Following the [student instructions](student-instructions-5.md), allow the class to try adding different colours to their text.
 
 5. Demonstrate to students how to change the background colour using CSS and allow them time to try this too:
 
