@@ -40,12 +40,12 @@ CSS, also known as Cascading Style Sheets, is used to style and control the layo
 
 ## Starter
 
-Create student groups of 2 or 3 and give each group a set of [HTML cards](https://github.com/raspberrypilearning/coder-html-css-lessons/raw/master/Lesson-4/html-cards.pdf). Students are to match the HTML tag with the correct answer card. After a few minutes, select each group to feedback one card to the rest of the class. 
+Create student groups of 2 or 3 and give each group a set of [HTML cards](html-cards.pdf). Students are to match the HTML tag with the correct answer card. After a few minutes, select each group to feedback one card to the rest of the class. 
 
 
 ## Main Development
 
-1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in. Students can use the [student instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-4/student-instructions-4.md) as a guide to remind them of the steps.
+1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in. Students can use the [student instructions](student-instructions-4.md) as a guide to remind them of the steps.
 
 2. Demonstrate how to access the CSS panel on a webpage project in Google Coder. Ask students to change the padding to show how CSS affects the webpage they have already created.
 
@@ -53,7 +53,7 @@ Create student groups of 2 or 3 and give each group a set of [HTML cards](https:
 	
 	*Note: It may be helpful to have a list of installed fonts avaliable for students displayed on the board.*
 
-4. Allow students time to change the fonts for all their text types, following the [student instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-4/student-instructions-4.md). 
+4. Allow students time to change the fonts for all their text types, following the [student instructions](student-instructions-4.md). 
 
 5. More advanced use of CSS to make the text look more interesting could be an extension task, for example making some of the heading text look blurry.
 
