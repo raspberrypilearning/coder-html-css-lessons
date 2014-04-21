@@ -38,7 +38,7 @@ Applying colour to a webpage is a major part of its design. So far, students hav
 
 ## Starter
 
-Direct students to the [Colour Scheme Designer Picker]() Website and give a quick demonstration on how to use it. Explain to students that they will need to select some colours for their webpage. When students are happy with their selections, ask them to note the hex values for each colour they want to use on their webpage. 
+Direct students to the [Colour Scheme Designer Picker](http://colorschemedesigner.com/) Website and give a quick demonstration on how to use it. Explain to students that they will need to select some colours for their webpage. When students are happy with their selections, ask them to note the hex values for each colour they want to use on their webpage. 
 
 ## Main Development
 1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in. Students can use the [student instructions](student-instructions-5.md) as a guide to remind them of the steps.
