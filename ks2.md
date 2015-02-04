@@ -1,0 +1,2 @@
+- Understand computer networks, including the internet; how they can provide multiple services, such as the World Wide Web, and the opportunities they offer for communication and collaboration.
+- Select, use and combine a variety of software (including internet services) on a range of digital devices to design and create a range of programs, systems and content. This will accomplish various goals including collecting, analysing, evaluating and presenting data and information.
