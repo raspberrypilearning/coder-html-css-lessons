@@ -50,11 +50,11 @@ Discuss the idea of who owns a image on the internet, before explaining the idea
 
 ## Main Development
 
-1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in. Students can use the [student instructions](student-instructions-3.md) as a guide to remind them of the steps.
+1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in. Students can use the [student instructions](worksheet.md) as a guide to remind them of the steps.
 
 2. Demonstrate to the students how to upload an image to Google Coder from a client computer, and how to add the HTML tag to the webpage in order for it to be seen. Then explain how images can be resized, for example `<img src="/static/apps/raspberry_pi/media/raspberry_pi_pcb.png" height="400px" width="700px" />`
 
-3. Allow students time to try this a number of times for themselves using the [student instructions](student-instructions-3.md) for this lesson.
+3. Allow students time to try this a number of times for themselves using the [student instructions](worksheet.md) for this lesson.
 
 4. Next, demonstrate to students that images are not the only media that can be added to a webpage. Many webpages embed media from other sites like YouTube or Vimeo. If students have access to video content that can be embedded, demonstrate how they can achieve this in Google Coder. 
 
