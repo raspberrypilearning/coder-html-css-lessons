@@ -1,2 +1,9 @@
 title: Google Coder - HTML & CSS Scheme of Work
 category: teach
+lessons:
+    1: Websites & Webservers
+    2: What is HTML?
+    3: Adding Images and Other Media
+    4: Adding Style with CSS
+    5: Colour with CSS
+    6: Evaluation
