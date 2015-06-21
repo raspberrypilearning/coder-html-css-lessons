@@ -33,7 +33,7 @@ In the last lesson you started to add some style to your webpage using CSS, conc
 
 Sometimes it can be difficult to know what colours to use that complement each other. You can use a [colour scheme designer like this](http://colorschemedesigner.com/) to help. Find some colours that you would like to use for your text.
 
-![](colour.jpg)
+![](images/colour.jpg)
 
 ## Adding Colours in CSS
 
@@ -95,7 +95,7 @@ Text is not the only element of the webpage that you may wish to choose a colour
 4. If you do not like the colour, then you can change it by changing the hex value. 
 5. You don't need to end there; you can also change the background colour of your text. Navigate to **h1** and add the line `background-color:#6495ed;` after the text colour and before the closing curly bracket like this:
 
-	![](background-colour.png)
+	![](images/background-colour.png)
 
 ## Background Image
 
@@ -105,8 +105,6 @@ Instead of using one colour for the background, you could use an image instead. 
 2. Click on the `“+”` button. You should get a prompt to upload a file. 
 3. Select an image of your choice from a location on your computer.
 4. Once the image is uploaded, you should see its name and the date it was uploaded appear. 
-
-	![]()
 
 5. Click on the **CSS panel** and replace `background-color` with `background-image:url("image.jpg")` like this:
 
@@ -126,4 +124,4 @@ Instead of using one colour for the background, you could use an image instead. 
 	}
 	```
 	
-	![](background-image.png)	
+	![](images/background-image.png)	

@@ -33,7 +33,7 @@ So far you have been using HTML to create your webpage. This has enabled you to 
 
 The text on your website has had the default font applied to it which is a bit boring, but you can change that by clicking on the **CSS panel** icon at the top of the screen.
 
-![](CSS-panel.png)
+![](images/CSS-panel.png)
 
 *CSS stands for “Cascading Style Sheets.”* When you click on the panel you will see the following code:
 
@@ -104,7 +104,7 @@ Font choice is very important when creating digital content like a webpage. You 
 
 	*Note: 'px' is used to specify size in screen pixels, but 'em' is used to measure things based on the size of the font. '2em' would make the line-height 2 times the size of the font.* 
 	
-	![](fonts.png)
+	![](images/fonts.png)
 	
 9. 	You can use any 'font-family' that you like. A good way to find one you like and its name is to look at the fonts in another application, such as Word or Photoshop. 
 
@@ -134,6 +134,6 @@ You can use CSS to apply all sorts of fun styles. For example, why not make the 
 
 3. Remember most HTML tags have an open and a close tag. Adding a new div class adds a new opening tag. Therefore you need to add the closing tag '</div>'. Place this closing tag above `<h2>Introduction</h2>` like this:
 
-	![](blurry-text-html.png) 	
+	![](images/blurry-text-html.png) 	
 	
 4. Click on the Save button and preview what your heading font looks like now! You can always remove this effect by deleting the `<div class="blur">` and `</div>` tags.	
