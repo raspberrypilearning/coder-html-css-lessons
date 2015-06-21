@@ -1,6 +1,6 @@
 # Google Coder - HTML & CSS Scheme of Work
 
-[![](coder.png)](https://www.youtube.com/watch?v=wH24YwdayFg)
+[![](images/coder.png)](https://www.youtube.com/watch?v=wH24YwdayFg)
 
 ## Introduction
 
