@@ -35,19 +35,19 @@ On the main Coder page you will see a grid of boxes with names on them. These ar
 
 2. Give it a name and pick a colour. You are going to make a webpage containing a review, so give it a name to reflect its contents such as "My favourite item".
 
-	![](new-project.png)
+	![](images/new-project.png)
 
 3. Once you’ve chosen a name and colour, press **Create**. You should go straight into editing your new project.
 
 4. When you create a new webpage, you start in the "Code View" of Coder. This contains the building blocks that will make up your website. Click on the icon that looks like an eye in the top right of the screen. This will show you a preview of what your webpage will look like.
 
-	![](new-page.png)
+	![](images/new-page.png)
 	
 ## Project Settings
 
 You can change the colour that you have used for your new project, and even add your name so that you know it is your work. To do this, click on the icon of a cog that represents **settings** next to the **preview** eye icon. Then add your name, and a new colour for your project icon should you wish.
 
-![](project-settings.png)
+![](images/project-settings.png)
 
 ## Headings & Titles
 
@@ -94,7 +94,7 @@ Titles are important, but you will want to have different styles of text on your
 
 	Your code should look something like this:
 
-	![](text.png)
+	![](images/text.png)
 
 6. Don't forget to save and preview your page to see what it looks like.
 
@@ -108,4 +108,4 @@ Underneath your main heading using the `<h1>` tag type:
 
 HR stands for “Horizontal Rule” and it’s an HTML element designed to divide content on a page.
 
-![](final.png)
+![](images/final.png)

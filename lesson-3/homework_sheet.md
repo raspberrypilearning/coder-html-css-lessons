@@ -4,4 +4,3 @@
 2. What is creative commons?
 3. Who does creative commons benefit and how?
 4. How many photos on the flickr website currently use creative commons licences?
-5. 

@@ -49,7 +49,7 @@ Currently, your webpage has some text written using different styles. You can ma
 
 5. Once the image is uploaded, its name and the date it was uploaded should appear. Roll over it with your mouse; you will see two buttons appear, “Paste to Code” and “Delete”.
 
-	![](adding-media.png) 
+	![](images/adding-media.png) 
 
 6. Go back to the HTML side, keeping the media drawer option. Position your cursor in between the two quote symbols `("")` in the `<img src="" />` tag we created. With the cursor still in that position, go back to the media drawer and click on the **paste to code** button. Some text that looks a little bit like a website address should appear between the quotes; that's the path to your image file. It should look something like this:
 
@@ -86,7 +86,7 @@ Images and text are the main focus of many websites. Nowadays, video content is 
 	```
 
 
-![](video.png)
+![](images/video.png)
 
 
 
