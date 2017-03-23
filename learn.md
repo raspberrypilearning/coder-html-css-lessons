@@ -5,3 +5,7 @@
   - Different ways to display text with HTML
   - Adding images and videos
   - Adding CSS style
+
+This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
+
+- [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator)
