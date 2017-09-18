@@ -1,3 +1,5 @@
+**This is an archived resource.** The repo will remain available but the resource will no longer be maintained or updated. Some or all parts of the resource may no longer work. To see our latest resources, please visit [raspberrypi.org](http://www.raspberrypi.org).
+
 # Google Coder - HTML & CSS Scheme of Work
 
 [![](images/coder.png)](https://www.youtube.com/watch?v=wH24YwdayFg)
